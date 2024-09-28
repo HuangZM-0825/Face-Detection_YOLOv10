@@ -1,0 +1,5 @@
+train: /app/datasets/images/train  # 訓練集圖片的路徑
+val: /app/datasets/images/val      # 驗證集圖片的路徑
+
+nc: 1  # 類別的數量
+names: ['face']  # 0 對應 face
